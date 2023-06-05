@@ -1,0 +1,400 @@
+[
+    {
+        "id": 1,
+        "chef_picture": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-10050.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
+        "chef_name": "Chef John Doe",
+        "years_of_experience": 10,
+        "number_of_recipes": 3,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipe_id": "spaghetti-bolognese-recipe",
+                "recipe_name": "Spaghetti Bolognese",
+                "recipes_image": "https://images.unsplash.com/photo-1614777986387-015c2a89b696?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c3BhZ2hldHRpJTIwYm9sb2duZXNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 can diced tomatoes",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried oregano",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1 pound spaghetti",
+                    "Parmesan cheese, grated (for serving)"
+                ],
+                "cooking_method": "1. In a large pot or Dutch oven, cook the ground beef over medium heat until browned, stirring occasionally. Drain any excess fat.\n2. Add the onion and garlic to the pot and cook until softened, about 5 minutes.\n3. Stir in the diced tomatoes, tomato paste, oregano, salt, and pepper. Bring to a simmer and let cook for about 10 minutes.\n4. Meanwhile, cook the spaghetti according to the package instructions. Drain and set aside.\n5. Serve the spaghetti topped with the Bolognese sauce and grated Parmesan cheese.",
+                "rating": 4.5
+            },
+            {
+                
+        "recipe_id": "vegetable-stir-fry-recipe",
+                "recipe_name": "Beef Stroganoff",
+                "recipes_image": "https://images.unsplash.com/photo-1668724775591-f50dd8ed65a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound beef sirloin, thinly sliced",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "8 ounces mushrooms, sliced",
+                    "1/4 cup all-purpose flour",
+                    "2 cups beef broth",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1/2 cup sour cream",
+                    "2 tablespoons fresh parsley, chopped (for serving)"
+                ],
+                "cooking_method": "1. In a large skillet, cook the beef over medium-high heat until browned. Remove from the skillet and set aside.\n2. Add the onion and garlic to the skillet and cook until softened, about 5 minutes. Add the mushrooms and cook until they release their liquid and are tender, about 5 minutes.\n3. Sprinkle the flour over the vegetables and stir to combine. Cook for about 2 minutes, stirring constantly.\n4. Gradually whisk in the beef broth and Worcestershire sauce. Bring to a simmer and let cook for about 5 minutes, or until the sauce has thickened.\n5. Return the beef to the skillet and stir to combine. Cook for about 5 minutes, or until the beef is heated through. Stir in the sour cream.\n6. Serve the beef stroganoff over egg noodles, garnished with chopped parsley.",
+                "rating": 4.7
+            },
+            {
+                
+        "recipe_id": "Grilled-stir-fry-recipe",
+                "recipe_name": "Grilled Lemon Herb Chicken",
+                "recipes_image": "https://images.unsplash.com/photo-1604908816315-6be59f37a4d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8R3JpbGxlZCUyMExlbW9uJTIwSGVyYiUyMENoaWNrZW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "1 tablespoon honey",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon chopped fresh rosemary",
+                    "1 tablespoon chopped fresh thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "Lemon wedges (for serving)"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together the olive oil, lemon juice, honey, garlic, rosemary, thyme, salt, and pepper.\n2. Place the chicken in a large resealable plastic bag and pour the marinade over the top. Seal the bag and massage the chicken to coat evenly with the marinade. Marinate in the refrigerator for at least 2 hours, or up to 8 hours.\n3. Preheat the grill to medium-high heat. Remove the chicken from the marinade and discard the remaining marinade.\n4. Grill the chicken for 6 to 7 minutes per side, or until cooked through and no longer pink in the center.\n5. Serve the chicken with lemon wedges on the side.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chef_picture": "https://img.freepik.com/free-photo/shot-professional-old-chef-dressed-uniform-holding-kitchen-spatula-tongs_613910-17564.jpg?w=1060&t=st=1682970015~exp=1682970615~hmac=94f0b10f58a53b828fb325ab63794adc1c8b4325a73a3d0d7408774a083fda4b",
+        "chef_name": "Chef JohnSon",
+        "years_of_experience": 8,
+        "number_of_recipes": 3,
+        "likes": 2000,
+        "recipes": [
+            {
+                "recipe_id": "Spaghetti-stir-fry-recipe",
+                "recipe_name": "Spaghetti Bolognese",
+                "recipes_image": "https://images.unsplash.com/photo-1590576502976-a7b6cd63f4dc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fFNwYWdoZXR0aSUyMEJvbG9nbmVzZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound ground beef",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "1 can diced tomatoes",
+                    "1 tablespoon tomato paste",
+                    "1 teaspoon dried oregano",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1 pound spaghetti",
+                    "Parmesan cheese, grated (for serving)"
+                ],
+                "cooking_method": "1. In a large pot or Dutch oven, cook the ground beef over medium heat until browned, stirring occasionally. Drain any excess fat.\n2. Add the onion and garlic to the pot and cook until softened, about 5 minutes.\n3. Stir in the diced tomatoes, tomato paste, oregano, salt, and pepper. Bring to a simmer and let cook for about 10 minutes.\n4. Meanwhile, cook the spaghetti according to the package instructions. Drain and set aside.\n5. Serve the spaghetti topped with the Bolognese sauce and grated Parmesan cheese.",
+                "rating": 4.5
+            },
+            {
+                "recipe_id": "Beef-stir-fry-recipe",
+                "recipe_name": "Beef Stroganoff",
+                "recipes_image": "https://images.unsplash.com/photo-1676300185579-ed2b14891d82?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8QmVlZiUyMFN0cm9nYW5vZmZ8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound beef sirloin, thinly sliced",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "8 ounces mushrooms, sliced",
+                    "1/4 cup all-purpose flour",
+                    "2 cups beef broth",
+                    "1 tablespoon Worcestershire sauce",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "1/2 cup sour cream",
+                    "2 tablespoons fresh parsley, chopped (for serving)"
+                ],
+                "cooking_method": "1. In a large skillet, cook the beef over medium-high heat until browned. Remove from the skillet and set aside.\n2. Add the onion and garlic to the skillet and cook until softened, about 5 minutes. Add the mushrooms and cook until they release their liquid and are tender, about 5 minutes.\n3. Sprinkle the flour over the vegetables and stir to combine. Cook for about 2 minutes, stirring constantly.\n4. Gradually whisk in the beef broth and Worcestershire sauce. Bring to a simmer and let cook for about 5 minutes, or until the sauce has thickened.\n5. Return the beef to the skillet and stir to combine. Cook for about 5 minutes, or until the beef is heated through. Stir in the sour cream.\n6. Serve the beef stroganoff over egg noodles, garnished with chopped parsley.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Grilled-stir-fry-recipe",
+                "recipe_name": "Grilled Lemon Herb Chicken",
+                "recipes_image": "https://images.unsplash.com/photo-1508432310926-5712bcb79944?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8R3JpbGxlZCUyMExlbW9uJTIwSGVyYiUyMENoaWNrZW58ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "1 tablespoon honey",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon chopped fresh rosemary",
+                    "1 tablespoon chopped fresh thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "Lemon wedges (for serving)"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together the olive oil, lemon juice, honey, garlic, rosemary, thyme, salt, and pepper.\n2. Place the chicken in a large resealable plastic bag and pour the marinade over the top. Seal the bag and massage the chicken to coat evenly with the marinade. Marinate in the refrigerator for at least 2 hours, or up to 8 hours.\n3. Preheat the grill to medium-high heat. Remove the chicken from the marinade and discard the remaining marinade.\n4. Grill the chicken for 6 to 7 minutes per side, or until cooked through and no longer pink in the center.\n5. Serve the chicken with lemon wedges on the side.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chef_picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
+        "chef_name": "Chef Maria Garcia",
+        "years_of_experience": 8,
+        "number_of_recipes": 3,
+        "likes": 800,
+        "recipes": [
+            {
+                "recipe_id": "Chicken-stir-fry-recipe",
+                "recipe_name": "Chicken Fajitas",
+                "recipes_image": "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Q2hpY2tlbiUyMEZhaml0YXN8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "2 lbs. boneless, skinless chicken breasts, sliced into thin strips",
+                    "1 green bell pepper, sliced into thin strips",
+                    "1 red bell pepper, sliced into thin strips",
+                    "1 yellow onion, sliced into thin strips",
+                    "1/4 cup olive oil",
+                    "1/4 cup lime juice",
+                    "2 cloves garlic, minced",
+                    "2 teaspoons chili powder",
+                    "1 teaspoon ground cumin",
+                    "1 teaspoon smoked paprika",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "8-10 flour tortillas",
+                    "Toppings: shredded cheese, sour cream, salsa, guacamole"
+                ],
+                "cooking_method": "1. In a large bowl, whisk together the olive oil, lime juice, garlic, chili powder, cumin, smoked paprika, salt, and black pepper.\n2. Add the chicken, bell peppers, and onion to the bowl and toss to coat.\n3. Heat a large skillet over high heat. Add the chicken mixture and cook, stirring occasionally, until the chicken is cooked through and the vegetables are tender, about 10-12 minutes.\n4. Serve the chicken fajitas in warm tortillas, topped with your favorite toppings.",
+                "rating": 4.8
+            },
+            {
+                "recipe_id": "Roasted-stir-fry-recipe",
+                "recipe_name": "Roasted Garlic Mashed Potatoes",
+                "recipes_image": "https://images.unsplash.com/photo-1529694157872-4e0c0f3b238b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Um9hc3RlZCUyMEdhcmxpYyUyME1hc2hlZCUyMFBvdGF0b2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "3 lbs. Yukon Gold potatoes, peeled and quartered",
+                    "6 cloves garlic, peeled",
+                    "1/2 cup butter, cut into cubes",
+                    "1/2 cup sour cream",
+                    "1/2 cup milk",
+                    "1 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "Chopped fresh chives (for serving)"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. Place the potatoes and garlic in a large pot and cover with water. Bring to a boil and cook until the potatoes",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Mediterranean-stir-fry-recipe",
+                "recipe_name": "Mediterranean Salad",
+                "recipes_image": "https://images.unsplash.com/photo-1542528180-a1208c5169a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8TWVkaXRlcnJhbmVhbiUyMFNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 head of romaine lettuce, chopped",
+                    "1 cup cherry tomatoes, halved",
+                    "1/2 cup kalamata olives",
+                    "1/2 red onion, thinly sliced",
+                    "1/2 cup crumbled feta cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 cup chopped fresh mint",
+                    "1/4 cup olive oil",
+                    "2 tablespoons lemon juice",
+                    "1 clove garlic, minced",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. In a large bowl, combine the chopped romaine lettuce, cherry tomatoes, kalamata olives, and thinly sliced red onion.\n2. In a separate small bowl, whisk together the olive oil, lemon juice, minced garlic, salt, and black pepper.\n3. Pour the dressing over the salad and toss to coat.\n4. Sprinkle the crumbled feta cheese, chopped fresh parsley, and chopped fresh mint over the top of the salad.\n5. Serve chilled.",
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chef_picture": "https://img.freepik.com/free-photo/professional-male-chef-cook-white-uniform-cook-hat-pointing-sidewith-index-finger-looking-confident-standing-white-background_141793-20622.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
+        "chef_name": "Chef Mari",
+        "years_of_experience": 15,
+        "number_of_recipes": 3,
+        "likes": 1000,
+        "recipes": [
+            {
+                "recipe_id": "Spaghetti-stir-fry-recipe",
+                "recipe_name": "Spaghetti Carbonara",
+                "recipes_image": "https://images.unsplash.com/photo-1579631542720-3a87824fff86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8U3BhZ2hldHRpJTIwQ2FyYm9uYXJhfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "6 ounces pancetta or bacon, diced",
+                    "4 large eggs",
+                    "1 cup freshly grated Pecorino Romano cheese",
+                    "1/4 cup freshly grated Parmesan cheese",
+                    "1/4 cup chopped fresh parsley",
+                    "1/4 teaspoon salt",
+                    "1/4 teaspoon black pepper"
+                ],
+                "cooking_method": "1. Bring a large pot of salted water to a boil. Add the spaghetti and cook according to package instructions until al dente.\n2. While the pasta is cooking, heat a large skillet over medium heat. Add the pancetta or bacon and cook until crispy, about 8-10 minutes.\n3. In a large bowl, whisk together the eggs, Pecorino Romano cheese, Parmesan cheese, parsley, salt, and black pepper.\n4. When the pasta is cooked, reserve 1/2 cup of the pasta water, then drain the pasta and return it to the pot.\n5. Add the cooked pancetta or bacon to the pot with the pasta and toss to combine.\n6. Gradually pour the egg mixture over the pasta, stirring constantly, until the eggs are cooked and the sauce is creamy. If the sauce is too thick, add some of the reserved pasta water to thin it out.\n7. Serve immediately, topped with additional Pecorino Romano cheese and parsley, if desired.",
+                "rating": 4.9
+            },
+            {
+                "recipe_id": "Baked-stir-fry-recipe",
+                "recipe_name": "Baked Salmon",
+                "recipes_image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8QmFrZWQlMjBTYWxtb258ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons freshly squeezed lemon juice",
+                    "2 cloves garlic, minced",
+                    "1 teaspoon dried thyme",
+                    "1/2 teaspoon salt",
+                    "1/4 teaspoon black pepper",
+                    "Lemon wedges, for serving"
+                ],
+                "cooking_method": "1. Preheat the oven to 400°F.\n2. In a small bowl, whisk together the olive oil, lemon juice, garlic, thyme, salt, and black pepper.\n3. Place the salmon fillets in a baking dish and brush the tops with the olive oil mixture.\n4. Bake the salmon for 12-15 minutes, or until it is cooked through and flakes easily with a fork.\n5. Serve the salmon hot, garnished with lemon wedges.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Broccoli-stir-fry-recipe",
+                "recipe_name": "Beef and Broccoli Stir Fry",
+                "recipes_image": "https://images.unsplash.com/photo-1627662168806-efa33a7cda86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fEJlZWYlMjBhbmQlMjBCcm9jY29saSUyMFN0aXIlMjBGcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 lb flank steak, sliced into thin strips",
+                    "1 lb broccoli florets",
+                    "3 cloves garlic, minced",
+                    "2 tablespoons soy sauce",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon vegetable oil",
+                    "1/4 teaspoon red pepper flakes",
+                    "Salt and black pepper, to taste",
+                    "Cooked rice, for serving"
+                ],
+                "cooking_method": "1. In a small bowl, whisk together the soy sauce, cornstarch, and 1/4 cup of water.\n2. In a large skillet or wok, heat the vegetable oil over high heat. Add the beef and stir-fry for 2-3 minutes, or until browned.\n3. Add the broccoli, garlic, red pepper flakes, salt, and black pepper to the skillet and stir-fry for an additional 2-3 minutes, or until the broccoli is tender.\n4. Pour the soy sauce mixture into the skillet and stir until the sauce thickens and coats the beef and broccoli.\n5. Serve the beef and broccoli stir fry over rice.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chef_picture": "https://img.freepik.com/free-photo/chef-holding-pan-with-fire-inside_144627-16644.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
+        "chef_name": "Chef Marico Saina",
+        "years_of_experience": 20,
+        "number_of_recipes": 3,
+        "likes": 3000,
+        "recipes": [
+            {
+                "recipe_id": "Caprese-stir-fry-recipe",
+                "recipe_name": "Caprese Salad",
+                "recipes_image": "https://plus.unsplash.com/premium_photo-1677619680472-3130a97bd5d3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FwcmVzZSUyMHNhbGFkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "4 large ripe tomatoes, sliced",
+                    "1 lb fresh mozzarella cheese, sliced",
+                    "1/4 cup fresh basil leaves, chopped",
+                    "1/4 cup extra-virgin olive oil",
+                    "2 tablespoons balsamic vinegar",
+                    "Salt and black pepper, to taste"
+                ],
+                "cooking_method": "1. Arrange the tomato and mozzarella slices on a serving platter.\n2. Sprinkle the chopped basil leaves over the top.\n3. In a small bowl, whisk together the olive oil and balsamic vinegar. Season with salt and black pepper, to taste.\n4. Drizzle the dressing over the top of the tomato and mozzarella slices.\n5. Serve the Caprese salad immediately, at room temperature or chilled.",
+                "rating": 4.9
+            },
+            {
+                
+             "recipe_id": "Spaghetti-stir-fry-recipe",
+                "recipe_name": "Spaghetti Carbonara",
+                "recipes_image": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fFNwYWdoZXR0aSUyMENhcmJvbmFyYXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 lb spaghetti",
+                    "8 oz pancetta or bacon, diced",
+                    "4 large eggs",
+                    "1 cup freshly grated Parmesan cheese",
+                    "4 cloves garlic, minced",
+                    "Salt and black pepper, to taste",
+                    "1/4 cup fresh parsley leaves, chopped (optional)"
+                ],
+                "cooking_method": "1. Cook the spaghetti in a large pot of salted boiling water according to package instructions, until al dente.\n2.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Garlic-stir-fry-recipe",
+                "recipe_name": "Garlic Butter Shrimp",
+                "recipes_image": "https://images.unsplash.com/photo-1607528971899-2e89e6c0ec69?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fEdhcmxpYyUyMEJ1dHRlciUyMFNocmltcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 lb large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "2 tablespoons unsalted butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons dry white wine",
+                    "1 tablespoon freshly squeezed lemon juice",
+                    "Salt and black pepper, to taste",
+                    "2 tablespoons chopped fresh parsley leaves"
+                ],
+                "cooking_method": "1. In a large skillet, heat the butter and olive oil over medium heat until the butter is melted and foamy.\n2. Add the minced garlic to the skillet and cook for 1 minute, or until fragrant.\n3. Add the shrimp to the skillet and cook, stirring occasionally, for 2-3 minutes, or until the shrimp are pink and cooked through.\n4. Add the white wine and lemon juice to the skillet and stir to combine.",
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chef_picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-posing-holding-big-silver-spoon-smiling-happy-expression_140725-15334.jpg?size=626&ext=jpg&ga=GA1.2.2087522418.1672577037&semt=robertav1_2_sidr",
+        "chef_name": "Chef Goslin Bridi",
+        "years_of_experience": 15,
+        "number_of_recipes": 3,
+        "likes": 2000,
+        "recipes": [
+            {
+                "recipe_id": "Shrimp-stir-fry-recipe",
+                "recipe_name": "Garlic Shrimp Pasta",
+                "recipes_image": "https://images.unsplash.com/photo-1597393353365-9d4366392fe9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8R2FybGljJTIwU2hyaW1wJTIwUGFzdGF8ZW58MHx8MHx8&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "8 oz spaghetti",
+                    "1 lb large shrimp, peeled and deveined",
+                    "4 cloves garlic, minced",
+                    "1/4 teaspoon red pepper flakes",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons unsalted butter",
+                    "1/2 cup dry white wine",
+                    "1/2 cup low-sodium chicken broth",
+                    "1/4 cup chopped parsley",
+                    "1/4 cup grated Parmesan cheese",
+                    "Salt and freshly ground black pepper"
+                ],
+                "cooking_method": "1. Cook spaghetti in a pot of boiling salted water until al dente. Reserve 1/2 cup of the pasta water, ",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Fry-stir-fry-recipe",
+                "recipe_name": "Vegetable Stir-Fry",
+                "recipes_image": "https://images.unsplash.com/photo-1543826173-1beeb97525d8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8VmVnZXRhYmxlJTIwU3RpciUyMEZyeXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 tablespoon vegetable oil",
+                    "1 red bell pepper, sliced",
+                    "1 yellow bell pepper, sliced",
+                    "1 onion, sliced",
+                    "1 cup snow peas",
+                    "1 cup sliced mushrooms",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon grated fresh ginger",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon cornstarch",
+                    "2 tablespoons water",
+                    "2 tablespoons chopped green onions",
+                    "1 tablespoon sesame seeds"
+                ],
+                "cooking_method": "1. In a large skillet or wok, heat the vegetable oil over high heat. Add the bell peppers and onion, and stir-fry for 2-3 minutes, until the vegetables are slightly softened.\n2. Add the snow peas, mushrooms, garlic, and ginger, and stir.",
+                "rating": 4.7
+            },
+            {
+                "recipe_id": "Pesto-stir-fry-recipe",
+                "recipe_name": "Pesto Pasta",
+                "recipes_image": "https://images.unsplash.com/photo-1616299908398-9af1134ad522?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8UGVzdG8lMjBQYXN0YXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60",
+                "ingredients": [
+                    "1 pound pasta",
+                    "2 cups fresh basil leaves",
+                    "3 cloves garlic",
+                    "1/4 cup pine nuts",
+                    "1/2 cup grated Parmesan cheese",
+                    "1/2 cup olive oil",
+                    "Salt and pepper to taste"
+                ],
+                "cooking_method": "1. Cook the pasta in a large pot of salted boiling water until al dente, according to package instructions.\n2. While the pasta cooks, make the pesto. In a food processor, combine the basil, garlic, pine nuts, and Parmesan cheese. Pulse until coarsely chopped.\n3. With the motor running, slowly pour in the olive oil and blend until.",
+                "rating": 4.6
+            }
+        ]
+    }
+]
